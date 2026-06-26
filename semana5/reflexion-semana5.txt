@@ -1,0 +1,13 @@
+Las APIs actúan como puentes digitales que conectan diferentes
+ aplicaciones para unificar reportes ciudadanos en una sola base
+  de datos organizada. Permiten que un vecino envíe una alerta de 
+  infraestructura desde su celular y esta se registre al instante 
+  en un mapa comunitario público. Al estandarizar la información, 
+  organizan los datos por categorías automáticas como ubicación, 
+  urgencia o tipo de incidente. Esto evita la duplicación de 
+  reportes y facilita que las autoridades o líderes comunitarios 
+  visualicen las emergencias en tiempo real. Además, automatizan
+   el envío de notificaciones masivas a los residentes mediante 
+   canales como WhatsApp o Telegram cuando ocurre un peligro 
+   inminente. Así, transforman datos dispersos en una red de 
+   cooperación vecinal eficiente y coordinada.

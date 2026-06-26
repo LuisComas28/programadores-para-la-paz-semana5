@@ -1,0 +1,10 @@
+Cada puerto es el punto de conexion con el servidor, y la direccion nos
+ define que respuesta nos va a dar el servidor al acceder.
+ 
+ http://localhost:3000 : esta de nos da acceso al servidor y nos muestra el mensaje principal
+ http://localhost:3000/saludo: esta nos lleva a un saludo
+ http://localhost:3000/mensaje/juan: Nos manda a un saludo para juan 
+
+ 
+
+

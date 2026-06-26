@@ -1,0 +1,11 @@
+app.post('/reporte', (req, res) => {
+  const mensaje = req.body.mensaje;
+  res.json({
+    estado: "Reporte recibido",
+    mensaje: mensaje
+  });
+});
+
+R: Es una ruta POST que recibe un objeto JSON en el cuerpo de la petición, toma el valor 
+de mensaje desde req.body.mensaje y responde con JSON diciendo que el reporte fue 
+recibido y devolviendo ese mismo mensaje.
